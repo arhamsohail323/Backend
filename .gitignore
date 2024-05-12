@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if using .env)
+.env
+
+# Log files
+logs/
+*.log
+
+# Output of npm
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.swp
